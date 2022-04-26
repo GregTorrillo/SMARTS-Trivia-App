@@ -1,6 +1,6 @@
 <h1 align="center">SMARTS - Trivia App | <a href="https://smarts-trivia.netlify.app/">Website</a></h1>
 <div align="center">
-	  <img src="https://github.com/GregTorrillo/SMARTS-trivia-app/blob/main/smarts.gif" width="100%" />
+	  <img src="https://github.com/GregTorrillo/SMARTS-Trivia-App/blob/main/smarts.gif" width="100%" />
 </div>
 
 ## Motivation: 
