@@ -7,7 +7,7 @@
 Being a trivia buff, I wanted to create a trivia app that was simple, challenging, and entertaining. 
 	
 ## Description:
-The user has to answer ten questions from random categories with random difficulty.  The user is given four options to answer a question and at the end of the ten questions, the user is given a score.  The questions and answers are retrieved from the open trivia database API. 
+The user has to answer ten questions from random categories with random difficulty.  The user is given multiple choice of four options or True/False to answer a question and at the end of the ten questions, the user is given a score.  The questions and answers are retrieved from the open trivia database API. 
 	
 <h4>API: https://opentdb.com/api.php?amount=1</h4>	
 
