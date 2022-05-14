@@ -1,9 +1,9 @@
 <h1 align="center">SMARTS - Trivia App </h1>
-<p align="center"><a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="90px" height="35px"></a></p>
 
 <div align="center">
 	  <img src="https://github.com/GregTorrillo/SMARTS-Trivia-App/blob/main/smarts.gif" width="100%" />
 </div>
+<p align="center"><a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="90px" height="35px"></a></p>
 
 ## Motivation: 
 Being a trivia buff, I wanted to create a trivia app that was simple, challenging, and entertaining. 
