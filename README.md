@@ -1,5 +1,5 @@
 <h1 align="center">SMARTS - Trivia App</h1>
-<span align="center"><a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> </span>
+<a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="65px" height="25px"></a> 
 <div align="center">
 	  <img src="https://github.com/GregTorrillo/SMARTS-Trivia-App/blob/main/smarts.gif" width="100%" />
 </div>
