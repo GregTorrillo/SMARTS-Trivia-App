@@ -3,6 +3,7 @@
 <div align="center">
 	  <img src="https://github.com/GregTorrillo/SMARTS-Trivia-App/blob/main/smarts.gif" width="100%" />
 </div>
+<br>
 <p align="center"><a href="https://smarts-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="90px" height="35px"></a></p>
 
 ## Motivation: 
