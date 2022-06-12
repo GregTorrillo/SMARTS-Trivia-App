@@ -201,9 +201,15 @@ body{
     .quiz-foot button{
         font-size: 14px;
     }
-    #result{
-        padding: 10px 0;
+   #result{
+        padding: 5px 0px;
         font-size: 16px;
     }
-
+    #result i{
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        line-height: 20px;
+        margin: 0 10px 10px 0;
+    }
 }
