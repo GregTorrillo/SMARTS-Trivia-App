@@ -179,7 +179,7 @@ body{
     }
     .wrapper{
         width: 90vw;
-        height: 90vh;
+        height: 600px;
         padding: 20px 15px;
     }
     .quiz-question{
